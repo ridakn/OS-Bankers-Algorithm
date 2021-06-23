@@ -1,0 +1,47 @@
+Currently available resources
+ 2  0  1  1 
+Current client request: 
+ 2  0  1  1 
+Request for client 0 accepted.
+Currently available resources
+ 6  0  1  2 
+Current client request: 
+ 0  6  5  0 
+Request for client 1 rejected.
+Currently available resources
+ 6  0  1  2 
+Current client request: 
+ 1  1  0  2 
+Request for client 2 rejected.
+Currently available resources
+ 6  0  1  2 
+Current client request: 
+ 1  0  2  0 
+Request for client 3 rejected.
+Currently available resources
+ 6  0  1  2 
+Current client request: 
+ 0  2  4  4 
+Request for client 4 rejected.
+Currently available resources
+ 6  0  1  2 
+Current client request: 
+ 0  6  5  0 
+Request for client 1 rejected.
+Currently available resources
+ 6  0  1  2 
+Current client request: 
+ 1  1  0  2 
+Request for client 2 rejected.
+Currently available resources
+ 6  0  1  2 
+Current client request: 
+ 1  0  2  0 
+Request for client 3 rejected.
+Currently available resources
+ 6  0  1  2 
+Current client request: 
+ 0  2  4  4 
+Request for client 4 rejected.
+
+Unsafe state
